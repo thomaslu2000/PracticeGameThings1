@@ -18,7 +18,6 @@ import android.view.SurfaceView;
 public class GameView extends SurfaceView implements Runnable {
 
     //DSOFHDUFHUAHDFAIUGDAFGDFAIAGF DHAFHAFHISGDAFD DSGKAGFHLAF
-    //ITS UR BOI
 
     volatile boolean playing; //just to check if playing. volatile means it can be affected by other threads, I think
 
