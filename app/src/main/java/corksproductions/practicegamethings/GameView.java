@@ -100,7 +100,7 @@ public class GameView extends SurfaceView implements Runnable {
 
             canvas = surfaceHolder.lockCanvas(); //You have to do this whenever you want to draw
 
-            canvas.drawColor(Color.WHITE); //Just the background is now white
+            canvas.drawColor(Color.BLUE); //Just the background is now white
 
             paint.setColor(Color.RED); //change color of paint --> ball will be red
             canvas.drawCircle(ballX,ballY,100,paint); //Draws the ball
