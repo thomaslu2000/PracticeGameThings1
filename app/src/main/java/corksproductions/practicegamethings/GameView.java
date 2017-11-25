@@ -20,6 +20,7 @@ public class GameView extends SurfaceView implements Runnable {
     //DSOFHDUFHUAHDFAIUGDAFGDFAIAGF DHAFHAFHISGDAFD DSGKAGFHLAF
     //Thomas's change sdhfasdhfaskhf
     //Hi
+    //Thomas is a nerd lmao
 
     volatile boolean playing; //just to check if playing. volatile means it can be affected by other threads, I think
 
